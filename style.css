@@ -26,6 +26,7 @@ body {
 
 .col-2 {
   display: inline-block;
+  margin: auto;
   padding: 0px;
   border-color: green;
   text-align: center;
