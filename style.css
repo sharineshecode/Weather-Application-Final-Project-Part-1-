@@ -11,7 +11,18 @@ body {
 
   
 }
+h5{
+  text-align: center;
+  margin: 56px;
+  padding: 0px;
+  background: rgb(132, 189, 26);
+  font-weight: bold;
+  color: #485d78;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
 }
+
 .container {
   text-align: center;
   margin: 56px;
@@ -24,7 +35,7 @@ body {
   margin-top: 50px;
 }
 
-.col-2 {
+.col-12 {
   display: inline-block;
   margin: auto;
   padding: 0px;
