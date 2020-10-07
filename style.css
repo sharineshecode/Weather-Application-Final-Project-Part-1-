@@ -1,7 +1,12 @@
+body {
+  background: rgb(123, 182, 123);
+  font-family: "Bubbler One", sans-serif;
+}
+}
 .container {
   margin: 20px;
   padding: 20px;
-  background: rgb(123, 182, 123);
+  background: rgb(132, 189, 26);
 }
 .col-6 {
   background: rgb(123, 182, 123);
