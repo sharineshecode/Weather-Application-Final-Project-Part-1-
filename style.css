@@ -7,6 +7,11 @@ body {
   margin: 20px;
   padding: 20px;
   background: rgb(132, 189, 26);
+  font-weight: bold;
+  color: #485d78;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
 }
 .col-6 {
   background: rgb(123, 182, 123);
