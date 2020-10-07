@@ -4,6 +4,9 @@ body {
   text-align: center;
   border: green;
   border-width: thick;
+  margin: 56;
+  padding: 0;
+  
 }
 }
 .container {
