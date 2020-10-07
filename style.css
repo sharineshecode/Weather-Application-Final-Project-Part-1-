@@ -6,11 +6,12 @@ body {
   margin: 100px;
   padding: 50;
   font font-weight: 400 ;
-  
-  .container {
+
+  .container { 
         max-width: 600px;
         margin: 0 auto;
         padding: 15px 60px;
+  }
   
   h1 {
         text-align: center;
@@ -30,13 +31,10 @@ body {
         text-align: center;
         padding: 15px;
         font-size: 18px;
-      }
-      h5 {
         text-align: center;
+        border: 1px solid #e8de51;
         padding: 15px;
-        font-size: 18px;
-      }
-    
+        border-radius: 4px;
       }
 
       p {
@@ -66,54 +64,6 @@ body {
 
 
 
-  
-}
-h5{
-  text-align: center;
-  margin: 56px;
-  padding: 0px;
-  background: rgb(132, 189, 26);
-  font-weight: bold;
-  color: #485d78;
-  display: block;
-  margin: 0 auto;
-  margin-top: 50px;
-}
-
-.container {
-  text-align: center;
-  margin: 56px;
-  padding: 0px;
-  background: rgb(132, 189, 26);
-  font-weight: bold;
-  color: #485d78;
-  display: block;
-  margin: 0 auto;
-  margin-top: 50px;
-}
-
-.col-12 {
-  display: inline-block;
-  margin: auto;
-  padding: 0px;
-  border-color: green;
-  text-align: center;
-
-}
-section .col-12,
-.emoji {
-  text-align: center;
-  display: block;
-  margin: 0px;
-  padding: 0px;
-}
-
-.extraInfo {
-  font-size: 14px;
-}
-.col-6 main {
-  text-align: left;
-}
 
 .day {
   color: #3e3e3e;
