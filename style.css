@@ -2,6 +2,8 @@ body {
   background: rgb(123, 182, 123);
   font-family: "Bubbler One", sans-serif;
   text-align: center;
+  border: green;
+  border-width: thick;
 }
 }
 .container {
@@ -20,6 +22,7 @@ body {
   display: inline-block;
   padding: 0px;
   border-color: green;
+  text-align: center;
 
 }
 section .col-12,
@@ -42,6 +45,7 @@ section .col-12,
 }
 .temp {
   color: #747474;
+  text-align: center;
 }
 .dayEmoji,
 .dayTemp {
