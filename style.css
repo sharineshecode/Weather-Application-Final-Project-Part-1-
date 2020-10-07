@@ -3,16 +3,21 @@ body {
   text-align: center;
   border: green;
   border-width: thick;
-  margin: 100px;
-  padding: 50;
+  margin: 0 auto;
+  padding: 15px 60px;
   font font-weight: 400 ;
-
-  .container { 
+  max-width: 600px;
+}
+.container { 
         max-width: 600px;
         margin: 0 auto;
         padding: 15px 60px;
   }
-  
+.card-body{
+       max-width: 600px;
+        margin: 0 auto;
+        padding: 15px 60px;
+}
   h1 {
         text-align: center;
         color: #7663ac;
