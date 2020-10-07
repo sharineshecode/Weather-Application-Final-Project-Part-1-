@@ -62,7 +62,7 @@ let minutes = [
   "57",
   "58",
   "59",
-  "60"
+  "60",
 ];
 
 let days = [
@@ -72,7 +72,7 @@ let days = [
   "Wednesday",
   "Thursday",
   "Friday",
-  "Saturday"
+  "Saturday",
 ];
 
 let months = [
@@ -87,7 +87,7 @@ let months = [
   "September",
   "October",
   "November",
-  "December"
+  "December",
 ];
 
 let currentDate = now.getDate();
