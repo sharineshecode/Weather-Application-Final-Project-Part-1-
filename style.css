@@ -1,12 +1,12 @@
 .container {
   margin: 20px;
+  padding: 20px;
   background: rgb(123, 182, 123);
 }
 
 .col-2 {
   display: inline-block;
   padding: 0px;
-  background: rgb(123, 182, 123);
 }
 section .col-12,
 .emoji {
@@ -14,12 +14,10 @@ section .col-12,
   display: block;
   margin: 0px;
   padding: 0px;
-  background: rgb(123, 182, 123);
 }
 
 .extraInfo {
   font-size: 14px;
-  background: rgb(123, 182, 123);
 }
 .col-6 main {
   text-align: left;
@@ -27,7 +25,6 @@ section .col-12,
 
 .day {
   color: #3e3e3e;
-  background: rgb(123, 182, 123);
 }
 .temp {
   color: #747474;
