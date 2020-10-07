@@ -1,11 +1,14 @@
 body {
-  background: rgb(123, 182, 123);
   font-family: "Bubbler One", sans-serif;
   text-align: center;
   border: green;
   border-width: thick;
-  margin: 56;
-  padding: 0;
+  margin: 100px;
+  padding: 50;
+  font font-weight: 400 ;
+  
+  
+
   
 }
 }
