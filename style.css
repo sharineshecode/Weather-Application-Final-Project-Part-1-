@@ -3,7 +3,9 @@
   padding: 20px;
   background: rgb(123, 182, 123);
 }
-
+.col-6 {
+  background: rgb(123, 182, 123);
+}
 .col-2 {
   display: inline-block;
   padding: 0px;
