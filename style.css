@@ -1,9 +1,11 @@
 body {
   background: rgb(123, 182, 123);
   font-family: "Bubbler One", sans-serif;
+  text-align: center;
 }
 }
 .container {
+  text-align: center;
   margin: 20px;
   padding: 20px;
   background: rgb(132, 189, 26);
@@ -13,12 +15,12 @@ body {
   margin: 0 auto;
   margin-top: 50px;
 }
-.col-6 {
-  background: rgb(123, 182, 123);
-}
+
 .col-2 {
   display: inline-block;
   padding: 0px;
+  border-color: green;
+
 }
 section .col-12,
 .emoji {
