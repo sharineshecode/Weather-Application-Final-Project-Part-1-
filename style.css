@@ -37,7 +37,6 @@ h1 {
 
 h2 {
   text-align: center;
-  border: 1px solid #e8de51;
   padding: 15px;
   font-size: 18px;
   border-radius: 4px;
@@ -47,7 +46,6 @@ h5 {
   padding: 15px;
   font-size: 18px;
   text-align: center;
-  border: 1px solid #e8de51;
   padding: 15px;
   border-radius: 4px;
 }
